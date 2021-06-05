@@ -12,13 +12,13 @@ The motto of my life is to be determined towards the software world and its deve
 ### Most Used Tech Stack.
 
 ### Front End Framework
-Angular
-Ionic
-Html
-CSS
-SCSS
-Javascript
-Webcomponents
+##### Angular
+##### Ionic
+##### Html
+##### CSS
+##### SCSS
+##### Javascript
+##### Webcomponents
 
 ### BackEnd
 Java
