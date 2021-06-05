@@ -11,7 +11,7 @@ The motto of my life is to be determined towards the software world and its deve
 
 ### Most Used Tech Stack.
 
-**Front End Framework**
+### Front End Framework
 Angular
 Ionic
 Html
@@ -20,32 +20,32 @@ SCSS
 Javascript
 Webcomponents
 
-**BackEnd**
+### BackEnd
 Java
 Spring MVC and Spring boot
 Hibernate
 Android Native
 
-**Database**
+### Database
 MSSQL
 MySql
 Google AppEngine
 
-**Other Working Area**
+### Other Working Area
 Creating Web-component library
 Creating Angular Library's
 Creating Java Maven dependencies
 
-**Repository Used**
+### Repository Used
 Git
 SVN
 Nexus
 
-**Operating System** 
+### Operating System
 Linux and Ubuntu
 Windows
 
-**Tools Used**
+### Tools Used
 Visual Studio code
 Eclipse
 MS SQL Studio
@@ -54,19 +54,19 @@ Photoshop
 After Effect
 Cyber link Power Director
 
-**Deployment Platforms**
+### Deployment Platforms
 Microsoft Azure
 Firebase
 Google App Engine
 AWS
 Physical server Windows and Ubuntu.
 
-**Other Frameworks Explored**
+### Other Frameworks Explored
 Joget
 Activity BPM basic
 Apache Open Meeting.
 
-**Area of Interest**
+### Area of Interest
 Machine Learning
 Artificial intelligence
 Creating Front End Frameworks
